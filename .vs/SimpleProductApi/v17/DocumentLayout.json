@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Practice\\SimpleProductApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C60FB0F3-204C-4D23-BB94-5D5509CCA293}|SimpleProductApi\\SimpleProductApi.csproj|d:\\practice\\simpleproductapi\\simpleproductapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60FB0F3-204C-4D23-BB94-5D5509CCA293}|SimpleProductApi\\SimpleProductApi.csproj|solutionrelative:simpleproductapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60FB0F3-204C-4D23-BB94-5D5509CCA293}|SimpleProductApi\\SimpleProductApi.csproj|d:\\practice\\simpleproductapi\\simpleproductapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60FB0F3-204C-4D23-BB94-5D5509CCA293}|SimpleProductApi\\SimpleProductApi.csproj|solutionrelative:simpleproductapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60FB0F3-204C-4D23-BB94-5D5509CCA293}|SimpleProductApi\\SimpleProductApi.csproj|d:\\practice\\simpleproductapi\\simpleproductapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60FB0F3-204C-4D23-BB94-5D5509CCA293}|SimpleProductApi\\SimpleProductApi.csproj|solutionrelative:simpleproductapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60FB0F3-204C-4D23-BB94-5D5509CCA293}|SimpleProductApi\\SimpleProductApi.csproj|d:\\practice\\simpleproductapi\\simpleproductapi\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60FB0F3-204C-4D23-BB94-5D5509CCA293}|SimpleProductApi\\SimpleProductApi.csproj|solutionrelative:simpleproductapi\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60FB0F3-204C-4D23-BB94-5D5509CCA293}|SimpleProductApi\\SimpleProductApi.csproj|d:\\practice\\simpleproductapi\\simpleproductapi\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60FB0F3-204C-4D23-BB94-5D5509CCA293}|SimpleProductApi\\SimpleProductApi.csproj|solutionrelative:simpleproductapi\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60FB0F3-204C-4D23-BB94-5D5509CCA293}|SimpleProductApi\\SimpleProductApi.csproj|d:\\practice\\simpleproductapi\\simpleproductapi\\data\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60FB0F3-204C-4D23-BB94-5D5509CCA293}|SimpleProductApi\\SimpleProductApi.csproj|solutionrelative:simpleproductapi\\data\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60FB0F3-204C-4D23-BB94-5D5509CCA293}|SimpleProductApi\\SimpleProductApi.csproj|d:\\practice\\simpleproductapi\\simpleproductapi\\data\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60FB0F3-204C-4D23-BB94-5D5509CCA293}|SimpleProductApi\\SimpleProductApi.csproj|solutionrelative:simpleproductapi\\data\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60FB0F3-204C-4D23-BB94-5D5509CCA293}|SimpleProductApi\\SimpleProductApi.csproj|d:\\practice\\simpleproductapi\\simpleproductapi\\data\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60FB0F3-204C-4D23-BB94-5D5509CCA293}|SimpleProductApi\\SimpleProductApi.csproj|solutionrelative:simpleproductapi\\data\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60FB0F3-204C-4D23-BB94-5D5509CCA293}|SimpleProductApi\\SimpleProductApi.csproj|d:\\practice\\simpleproductapi\\simpleproductapi\\data\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60FB0F3-204C-4D23-BB94-5D5509CCA293}|SimpleProductApi\\SimpleProductApi.csproj|solutionrelative:simpleproductapi\\data\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60FB0F3-204C-4D23-BB94-5D5509CCA293}|SimpleProductApi\\SimpleProductApi.csproj|d:\\practice\\simpleproductapi\\simpleproductapi\\data\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60FB0F3-204C-4D23-BB94-5D5509CCA293}|SimpleProductApi\\SimpleProductApi.csproj|solutionrelative:simpleproductapi\\data\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60FB0F3-204C-4D23-BB94-5D5509CCA293}|SimpleProductApi\\SimpleProductApi.csproj|d:\\practice\\simpleproductapi\\simpleproductapi\\data\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60FB0F3-204C-4D23-BB94-5D5509CCA293}|SimpleProductApi\\SimpleProductApi.csproj|solutionrelative:simpleproductapi\\data\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60FB0F3-204C-4D23-BB94-5D5509CCA293}|SimpleProductApi\\SimpleProductApi.csproj|d:\\practice\\simpleproductapi\\simpleproductapi\\migrations\\20250628154354_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60FB0F3-204C-4D23-BB94-5D5509CCA293}|SimpleProductApi\\SimpleProductApi.csproj|solutionrelative:simpleproductapi\\migrations\\20250628154354_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60FB0F3-204C-4D23-BB94-5D5509CCA293}|SimpleProductApi\\SimpleProductApi.csproj|d:\\practice\\simpleproductapi\\simpleproductapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C60FB0F3-204C-4D23-BB94-5D5509CCA293}|SimpleProductApi\\SimpleProductApi.csproj|solutionrelative:simpleproductapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60FB0F3-204C-4D23-BB94-5D5509CCA293}|SimpleProductApi\\SimpleProductApi.csproj|d:\\practice\\simpleproductapi\\simpleproductapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60FB0F3-204C-4D23-BB94-5D5509CCA293}|SimpleProductApi\\SimpleProductApi.csproj|solutionrelative:simpleproductapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "SimpleProductApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "SimpleProductApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA0wC4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:04:12.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\Services\\Implementations\\ProductService.cs",
+              "RelativeDocumentMoniker": "SimpleProductApi\\Services\\Implementations\\ProductService.cs",
+              "ToolTip": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\Services\\Implementations\\ProductService.cs",
+              "RelativeToolTip": "SimpleProductApi\\Services\\Implementations\\ProductService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA4wCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:02:27.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "SimpleProductApi\\Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "SimpleProductApi\\Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:01:35.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\Data\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "SimpleProductApi\\Data\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\Data\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "SimpleProductApi\\Data\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:55:44.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\Data\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "SimpleProductApi\\Data\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\Data\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "SimpleProductApi\\Data\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:54:22.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\Data\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "SimpleProductApi\\Data\\Repositories\\Implementations\\ProductRepository.cs",
+              "ToolTip": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\Data\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeToolTip": "SimpleProductApi\\Data\\Repositories\\Implementations\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:53:19.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\Data\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "SimpleProductApi\\Data\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\Data\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "SimpleProductApi\\Data\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:51:36.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\Data\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "SimpleProductApi\\Data\\Repositories\\Implementations\\GenericRepository.cs",
+              "ToolTip": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\Data\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeToolTip": "SimpleProductApi\\Data\\Repositories\\Implementations\\GenericRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:48:32.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\Data\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "SimpleProductApi\\Data\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\Data\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "SimpleProductApi\\Data\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:45:56.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250628154354_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\Migrations\\20250628154354_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SimpleProductApi\\Migrations\\20250628154354_InitialCreate.cs",
+              "ToolTip": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\Migrations\\20250628154354_InitialCreate.cs",
+              "RelativeToolTip": "SimpleProductApi\\Migrations\\20250628154354_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:43:55.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleProductApi\\Program.cs",
+              "ToolTip": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\Program.cs",
+              "RelativeToolTip": "SimpleProductApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:40:48.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\appsettings.json",
+              "RelativeDocumentMoniker": "SimpleProductApi\\appsettings.json",
+              "ToolTip": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\appsettings.json",
+              "RelativeToolTip": "SimpleProductApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-28T15:40:00.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SimpleProductApi\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SimpleProductApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:36:09.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SimpleProductApi\\Models\\Product.cs",
+              "ToolTip": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\Models\\Product.cs",
+              "RelativeToolTip": "SimpleProductApi\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:35:11.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
