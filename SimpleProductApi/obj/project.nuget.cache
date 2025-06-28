@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "R0eR+BT67RM=",
+  "dgSpecHash": "c9NhWlCvlnE=",
   "success": true,
   "projectFilePath": "D:\\Practice\\SimpleProductApi\\SimpleProductApi\\SimpleProductApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\abdic\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\abdic\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\abdic\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\abdic\\.nuget\\packages\\microsoft.build.framework\\17.8.3\\microsoft.build.framework.17.8.3.nupkg.sha512",

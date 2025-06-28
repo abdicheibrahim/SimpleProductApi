@@ -160,3 +160,5 @@ D:\Practice\SimpleProductApi\SimpleProductApi\obj\Debug\net8.0\refint\SimpleProd
 D:\Practice\SimpleProductApi\SimpleProductApi\obj\Debug\net8.0\SimpleProductApi.pdb
 D:\Practice\SimpleProductApi\SimpleProductApi\obj\Debug\net8.0\SimpleProductApi.genruntimeconfig.cache
 D:\Practice\SimpleProductApi\SimpleProductApi\obj\Debug\net8.0\ref\SimpleProductApi.dll
+D:\Practice\SimpleProductApi\SimpleProductApi\obj\Debug\net8.0\SimpleProductApi.sourcelink.json
+D:\Practice\SimpleProductApi\SimpleProductApi\bin\Debug\net8.0\AutoMapper.dll

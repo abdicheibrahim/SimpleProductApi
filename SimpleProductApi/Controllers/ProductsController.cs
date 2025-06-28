@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using SimpleProductApi.DTOs;
 using SimpleProductApi.Models;
 using SimpleProductApi.Services.Interfaces;
 
@@ -32,7 +33,7 @@ namespace SimpleProductApi.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Create(Product product)
+        public async Task<IActionResult> Create(CreateProductDto product)
         {
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
@@ -41,7 +42,7 @@ namespace SimpleProductApi.Controllers
         }
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> Update(int id, Product product)
+        public async Task<IActionResult> Update(int id, UpdateProductDto product)
         {
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);

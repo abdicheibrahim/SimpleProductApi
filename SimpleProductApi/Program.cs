@@ -28,6 +28,7 @@ namespace SimpleProductApi
             builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
             builder.Services.AddScoped<IProductRepository, ProductRepository>();
             builder.Services.AddScoped<IProductService, ProductService>();
+            builder.Services.AddAutoMapper(typeof(Program));
 
             var app = builder.Build();
 
