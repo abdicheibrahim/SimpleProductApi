@@ -58,6 +58,7 @@ namespace SimpleProductApi.Services.Implementations
 
         //    existing.Name = updatedProduct.Name;
         //    existing.Description = updatedProduct.Description;
+
         //    existing.Price = updatedProduct.Price;
 
         //    _unitOfWork.Products.Update(existing);
