@@ -10,6 +10,6 @@ namespace SimpleProductApi.Data.Repositories.Implementations
         {
         }
 
-        // هنا مستقبلاً تضيف أي دوال مخصصة
+        // Here in the future you can add any custom functions.
     }
 }
